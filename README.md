@@ -1,4 +1,4 @@
-#Simple Cloud Storage (Normal)
+# Simple Cloud Storage (Normal)
 
 Service ini memakai Bahasa Pemrograman Python
 
