@@ -1,5 +1,4 @@
-# TUGAS-SOA-POINT-NORMAL
-Simple Cloud Storage
+#Simple Cloud Storage (Normal)
 
 Service ini memakai Bahasa Pemrograman Python
 
